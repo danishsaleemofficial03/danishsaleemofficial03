@@ -3,7 +3,7 @@
 - 🎓 **Education:** Computer Science Student at GU Tech
 - 💻 **Tech Stack:** HTML5 | CSS3 | JavaScript | Git & GitHub
 - 🎯 **Current Focus:** Building Web Development Projects & Problem Solving
-- 📫 **LinkedIn:** [danish-saleem](https://www.linkedin.com/in/danish-saleem-)## Hi there 👋
+- 📫 **LinkedIn:** [danish-saleem](https://www.linkedin.com/in/danish-saleem-)
 
 <!--
 **danishsaleemofficial03/danishsaleemofficial03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
